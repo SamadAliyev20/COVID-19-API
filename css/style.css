@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rebeccapurple;
+}
+a{
+    text-decoration: none;
+}
+.contents{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    width: 100%;
+}
+.logo{
+    width: 10%;
+}
+.tablee{
+    display: inline-table;
+    align-items: center;
+}
+.tablee .redd{
+   color: red;
+}
